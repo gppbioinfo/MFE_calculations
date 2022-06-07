@@ -1,0 +1,120 @@
+------------------------
+cel-miR-2217a-5p|cel-miR-2217-5p/cel-miR-2217a-3p|cel-miR-2217-3p*	24	22	23	21	2,23	1,21
+CAGAGUGGGCAGUCGGUGUCGAUC&UGGCUUUGUCCGUGUUCCCAGCU
+.(((.(((((...((.(((((.&)))))))...)))))..))).   2,23  :   1,21  (-18.80)
+.(((.-(((((...((.(((((.
+|||||||||||||||||||||||
+.(((..(((((...((-(((((-
+
+CAGAGUGGGCAGUCGGUGUCGAUC
+UGGCUUUGUCCGUGUUCCCAGCU
+------------------------
+
+------------------------
+cel-miR-8196b-5p|cel-miR-8196b-5p*/cel-miR-8196b-3p|cel-miR-8196b-3p	23	21	24	23	1,21	1,23
+CCCAUAGAAAUAUUUUCUAUGUC&AAGGGUUUCUUUUUUAAUUGAUGU
+((((.(((((.(((..((((.&.))))..)))..))))).)))).   1,21  :   1,23  (-14.30)
+-((((.(((((.-(((..((((.
+|||||||||||||||||||||||
+.((((.(((((..(((..((((.
+
+CCCAUAGAAAUAUUUUCUAUGUC
+AAGGGUUUCUUUUUUAAUUGAUGU
+------------------------
+
+------------------------
+cel-miR-5549-5p|cel-miR-5549-5p*/cel-miR-5549-3p|cel-miR-5549-3p	20	15	21	14	5,19	1,14
+CUUGUGAAAUUAACGUGAGU&UGGUUGUUUUUUGGUUGUACU
+.(((((((((((((.&))))))))))))).   5,19  :   1,14  (-12.60)
+.(((((((((((((.
+|||||||||||||||
+.(((((((((((((-
+
+CUUGUGAAAUUAACGUGAGU
+UGGUUGUUUUUUGGUUGUACU
+------------------------
+
+------------------------
+cel-miR-4808-5p|cel-miR-4808**/cel-miR-4808-3p|cel-miR-4808	21	20	21	20	1,20	1,20
+GUAAGAUAGAUUAGUGCUUUC&GACAUUCUCUCUUAUCUCGAA
+((((((.(((.(((.((((.&)))).))).))).)))))).   1,20  :   1,20  (-17.40)
+-((((((.(((.(((.((((.
+|||||||||||||||||||||
+.((((((.(((.(((.((((-
+
+GUAAGAUAGAUUAGUGCUUUC
+GACAUUCUCUCUUAUCUCGAA
+------------------------
+
+------------------------
+cel-miR-789-5p|cel-miR-789-5p/cel-miR-789-3p|cel-miR-789*	22	22	23	22	1,22	1,22
+AAUUGAUGACCCAGACAAGGAC&UGUUAACCACUGGGUCCGUCCCU
+(((((.((((((((.((.(((.&))).)).)))))))).))))).   1,22  :   1,22  (-23.50)
+-(((((.((((((((.((.(((.
+|||||||||||||||||||||||
+.(((((.((((((((.((.(((-
+
+AAUUGAUGACCCAGACAAGGAC
+UGUUAACCACUGGGUCCGUCCCU
+------------------------
+
+------------------------
+cel-miR-8201-5p|cel-miR-8201-5p*/cel-miR-8201-3p|cel-miR-8201-3p	22	19	22	20	1,19	2,21
+UCUGGAUCGAUAAUGUAAACCU&AGAGACCUAGUUAUUACAUUAA
+((((((((((((((((((.&.)))))))))))))))))).   1,19  :   2,21  (-25.90)
+-((((((((((((((((((.
+||||||||||||||||||||
+.((((((((((((((((((.
+
+UCUGGAUCGAUAAUGUAAACCU
+AGAGACCUAGUUAUUACAUUAA
+------------------------
+
+------------------------
+cel-miR-5553-5p|cel-miR-5553-5p*/cel-miR-5553-3p|cel-miR-5553-3p	23	22	23	22	1,22	1,22
+UUGCCACGCGCCAUCCAUUGAUU&AGAACGGUGCACGAUGGGUAACU
+((((((((.((.(((((((((.&))))))))).)).)))))))).   1,22  :   1,22  (-30.10)
+-((((((((.((.(((((((((.
+|||||||||||||||||||||||
+.((((((((.((.(((((((((-
+
+UUGCCACGCGCCAUCCAUUGAUU
+AGAACGGUGCACGAUGGGUAACU
+------------------------
+
+------------------------
+cel-miR-4816-5p|cel-miR-4816*/cel-miR-4816-3p|cel-miR-4816*	22	20	23	22	1,20	1,22
+GUAAGUGGUUUUUGUAGAUCAA&GACAUUCACGCUUUUAACAUCUA
+((((((((...((((((((.&))))))))....).))))))).   1,20  :   1,22  (-17.40)
+-(((((((-(...-((((((((.
+|||||||||||||||||||||||
+.(((((((.(....((((((((-
+
+GUAAGUGGUUUUUGUAGAUCAA
+GACAUUCACGCUUUUAACAUCUA
+------------------------
+
+------------------------
+cel-miR-65-5p|cel-miR-65/cel-miR-65-3p|cel-miR-65**	23	18	21	18	1,18	4,21
+UAUGACACUGAAGCGUAACCGAA&CGUACCGUGACGCGCAUCGUC
+((((.(((((..(((((.&.))))).))))).)))).   1,18  :   4,21  (-16.20)
+-((((.(((((..(((((.
+|||||||||||||||||||
+.((((.(((((-.(((((.
+
+UAUGACACUGAAGCGUAACCGAA
+CGUACCGUGACGCGCAUCGUC
+------------------------
+
+------------------------
+cel-miR-2209c-5p|cel-miR-2209c**/cel-miR-2209c-3p|cel-miR-2209c	23	20	23	20	1,20	2,21
+GAGUGUAACCGCACGUCUUGUUU&ACAUCACAUUGGCCACCAGAAAA
+.((((((((((...(((((.&.)))))...)))))))))).   1,20  :   2,21  (-21.40)
+.((((((((((...(((((.
+||||||||||||||||||||
+.((((((((((...(((((.
+
+GAGUGUAACCGCACGUCUUGUUU
+ACAUCACAUUGGCCACCAGAAAA
+------------------------
+
